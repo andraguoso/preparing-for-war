@@ -1,2 +1,2 @@
 # preparing-for-war
-basically me prepping for peru's national informatics olympiad
+Title is self-explanatory
